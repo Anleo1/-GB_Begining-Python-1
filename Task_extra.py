@@ -1,4 +1,5 @@
 from decimal import Decimal
+
 num = Decimal(input("Enter number: "))
 sum = 0
 if num < 0:
